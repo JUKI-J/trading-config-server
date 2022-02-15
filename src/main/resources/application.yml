@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/JUKI-J/config-server
+          uri: https://github.com/JUKI-J/config-server.git
           clone-on-start: true
